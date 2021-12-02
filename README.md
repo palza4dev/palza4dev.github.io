@@ -5,10 +5,6 @@
 ### Hi there, I'm Seungjun Moon👋
 
 
-- 🔭 I’m currently working on [Pre-Onboadring Backend course](https://www.wanted.co.kr/events/pre_onboarding_course_4?t=1635069780048)
-
-- 🌱 I’m currently learning Python & Django in [Wecode bootcamp](https://wecode.co.kr/)
-
 ---
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=palza4dev&show_icons=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
