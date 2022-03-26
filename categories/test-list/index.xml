@@ -14,6 +14,32 @@
       
       <guid>https://palza4dev.github.io/post/test3/</guid>
       <description>Desc Text.</description>
+      <content:encoded><![CDATA[<p>Shows Index/Home page as Full Page with Social Links and Image</p>
+<p>add following to config file</p>
+<p>params:
+profileMode:
+enabled: true
+title: &ldquo;<!-- raw HTML omitted -->&rdquo; # optional default will be site title
+subtitle: &ldquo;This is subtitle&rdquo;
+imageUrl: &ldquo;<!-- raw HTML omitted -->&rdquo; # optional
+imageTitle: &ldquo;<!-- raw HTML omitted -->&rdquo; # optional
+imageWidth: 120 # custom size
+imageHeight: 120 # custom size
+buttons: - name: Archive
+url: &ldquo;/archive&rdquo; - name: Github
+url: &ldquo;<a href="https://github.com/%22">https://github.com/&quot;</a></p>
+<pre><code>socialIcons: # optional
+    - name: &quot;&lt;platform&gt;&quot;
+        url: &quot;&lt;link&gt;&quot;
+    - name: &quot;&lt;platform 2&gt;&quot;
+        url: &quot;&lt;link2&gt;&quot;
+</code></pre>
+<p>Search Page
+PaperMod uses Fuse.js Basic for seach functionality</p>
+<p>Add the following to site config, config.yml</p>
+<p>outputs:
+home: - HTML - RSS - JSON # is necessary</p>
+]]></content:encoded>
     </item>
     
   </channel>
