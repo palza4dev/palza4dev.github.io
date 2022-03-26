@@ -1,6 +1,3 @@
 User-agent: *
-Disallow:
-Sitemap: https://palza4dev.github.io/sitemap.xml
-
-User-agent: Yeti
 Allow: /
+Sitemap: https://palza4dev.github.io/sitemap.xml
