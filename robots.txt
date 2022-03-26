@@ -1,3 +1,7 @@
 User-agent: *
+Allow: /
+Sitemap: https://palza4dev.github.io/sitemap.xml
+
+User-agent: *
 Disallow:
 Sitemap: https://palza4dev.github.io/sitemap.xml
