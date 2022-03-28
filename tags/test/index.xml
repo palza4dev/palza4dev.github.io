@@ -16,6 +16,7 @@
       <description>Desc Text.</description>
       <content:encoded><![CDATA[<p>Shows Index/Home page as Full Page with Social Links and Image</p>
 <p>add following to config file</p>
+<h1 id="asdf">asdf</h1>
 <p>params:
 profileMode:
 enabled: true
