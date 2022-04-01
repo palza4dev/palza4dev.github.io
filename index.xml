@@ -6,7 +6,56 @@
     <description>Recent content on Mooner</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 24 Mar 2022 20:13:16 +0900</lastBuildDate><atom:link href="https://palza4dev.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 31 Mar 2022 20:13:16 +0900</lastBuildDate><atom:link href="https://palza4dev.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>테스트 최신 호로로로로</title>
+      <link>https://palza4dev.github.io/post/test3/</link>
+      <pubDate>Thu, 31 Mar 2022 20:13:16 +0900</pubDate>
+      
+      <guid>https://palza4dev.github.io/post/test3/</guid>
+      <description>Desc Text.</description>
+      <content:encoded><![CDATA[<p><figure>
+    <img loading="lazy" src="/images/testforblog.png" width="500"/> <figcaption>
+            test image 입니다
+        </figcaption>
+</figure>
+
+<br />
+Shows Index/Home page as Full Page with Social Links and Image</p>
+<p>add following to config file</p>
+<h1 id="asdf">asdf</h1>
+<p>asdfjsalkf</p>
+<p>asdfkjlsd</p>
+<p>asdlkfjlsa</p>
+<p>imageWidth: 120 # custom size
+imageHeight: 120 # custom size
+buttons: - name: Archive
+url: &ldquo;/archive&rdquo; - name: Github
+url: &ldquo;<a href="https://github.com/%22">https://github.com/&quot;</a></p>
+<div class="highlight"><div style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">
+<table style="border-spacing:0;padding:0;margin:0;border:0;"><tr><td style="vertical-align:top;padding:0;margin:0;border:0;">
+<pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code><span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">1
+</span><span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">2
+</span><span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">3
+</span><span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">4
+</span><span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">5
+</span></code></pre></td>
+<td style="vertical-align:top;padding:0;margin:0;border:0;;width:100%">
+<pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-yaml" data-lang="yaml"><span style="display:flex;"><span>    <span style="color:#f92672">socialIcons</span>: <span style="color:#75715e"># optional</span>
+</span></span><span style="display:flex;"><span>        - <span style="color:#f92672">name</span>: <span style="color:#e6db74">&#34;&lt;platform&gt;&#34;</span>
+</span></span><span style="display:flex;"><span>            <span style="color:#f92672">url</span>: <span style="color:#e6db74">&#34;&lt;link&gt;&#34;</span>
+</span></span><span style="display:flex;"><span>        - <span style="color:#f92672">name</span>: <span style="color:#e6db74">&#34;&lt;platform 2&gt;&#34;</span>
+</span></span><span style="display:flex;"><span>            <span style="color:#f92672">url</span>: <span style="color:#e6db74">&#34;&lt;link2&gt;&#34;</span>
+</span></span></code></pre></td></tr></table>
+</div>
+</div><p>Search Page
+PaperMod uses Fuse.js Basic for seach functionality</p>
+<p>Add the following to site config, config.yml</p>
+<p>outputs:
+home: - HTML - RSS - JSON # is necessary</p>
+]]></content:encoded>
+    </item>
+    
     <item>
       <title>Test2</title>
       <link>https://palza4dev.github.io/post/test2/</link>
@@ -97,55 +146,6 @@ asdfdsafasfsdaf
 ㅇㅇ</p>]]></content:encoded>
     </item>
     
-    
-    <item>
-      <title>테스트 최신 호로로로로</title>
-      <link>https://palza4dev.github.io/post/test3/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://palza4dev.github.io/post/test3/</guid>
-      <description>Desc Text.</description>
-      <content:encoded><![CDATA[<p><figure>
-    <img loading="lazy" src="/images/testforblog.png" width="500"/> <figcaption>
-            test image 입니다
-        </figcaption>
-</figure>
-
-<br />
-Shows Index/Home page as Full Page with Social Links and Image</p>
-<p>add following to config file</p>
-<h1 id="asdf">asdf</h1>
-<p>asdfjsalkf</p>
-<p>asdfkjlsd</p>
-<p>asdlkfjlsa</p>
-<p>imageWidth: 120 # custom size
-imageHeight: 120 # custom size
-buttons: - name: Archive
-url: &ldquo;/archive&rdquo; - name: Github
-url: &ldquo;<a href="https://github.com/%22">https://github.com/&quot;</a></p>
-<div class="highlight"><div style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">
-<table style="border-spacing:0;padding:0;margin:0;border:0;"><tr><td style="vertical-align:top;padding:0;margin:0;border:0;">
-<pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code><span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">1
-</span><span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">2
-</span><span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">3
-</span><span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">4
-</span><span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">5
-</span></code></pre></td>
-<td style="vertical-align:top;padding:0;margin:0;border:0;;width:100%">
-<pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-yaml" data-lang="yaml"><span style="display:flex;"><span>    <span style="color:#f92672">socialIcons</span>: <span style="color:#75715e"># optional</span>
-</span></span><span style="display:flex;"><span>        - <span style="color:#f92672">name</span>: <span style="color:#e6db74">&#34;&lt;platform&gt;&#34;</span>
-</span></span><span style="display:flex;"><span>            <span style="color:#f92672">url</span>: <span style="color:#e6db74">&#34;&lt;link&gt;&#34;</span>
-</span></span><span style="display:flex;"><span>        - <span style="color:#f92672">name</span>: <span style="color:#e6db74">&#34;&lt;platform 2&gt;&#34;</span>
-</span></span><span style="display:flex;"><span>            <span style="color:#f92672">url</span>: <span style="color:#e6db74">&#34;&lt;link2&gt;&#34;</span>
-</span></span></code></pre></td></tr></table>
-</div>
-</div><p>Search Page
-PaperMod uses Fuse.js Basic for seach functionality</p>
-<p>Add the following to site config, config.yml</p>
-<p>outputs:
-home: - HTML - RSS - JSON # is necessary</p>
-]]></content:encoded>
-    </item>
     
   </channel>
 </rss>

@@ -2,23 +2,53 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://palza4dev.github.io/categories/</loc>
+    <lastmod>2022-03-31T20:13:16+09:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://palza4dev.github.io/</loc>
-    <lastmod>2022-03-24T20:13:16+09:00</lastmod>
+    <lastmod>2022-03-31T20:13:16+09:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://palza4dev.github.io/post/</loc>
-    <lastmod>2022-03-24T20:13:16+09:00</lastmod>
+    <lastmod>2022-03-31T20:13:16+09:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://palza4dev.github.io/series/</loc>
+    <lastmod>2022-03-31T20:13:16+09:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://palza4dev.github.io/tags/</loc>
+    <lastmod>2022-03-31T20:13:16+09:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://palza4dev.github.io/tags/test/</loc>
+    <lastmod>2022-03-31T20:13:16+09:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://palza4dev.github.io/categories/test-list/</loc>
+    <lastmod>2022-03-31T20:13:16+09:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://palza4dev.github.io/series/the-very-first/</loc>
+    <lastmod>2022-03-31T20:13:16+09:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://palza4dev.github.io/post/test3/</loc>
+    <lastmod>2022-03-31T20:13:16+09:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://palza4dev.github.io/post/test2/</loc>
     <lastmod>2022-03-24T20:13:16+09:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://palza4dev.github.io/categories/</loc>
-    <lastmod>2022-03-24T18:52:03+09:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -42,11 +72,6 @@
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://palza4dev.github.io/tags/</loc>
-    <lastmod>2022-03-24T18:52:03+09:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url><url>
     <loc>https://palza4dev.github.io/post/test/</loc>
     <lastmod>2022-03-24T18:52:03+09:00</lastmod>
     <changefreq>daily</changefreq>
@@ -57,26 +82,6 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://palza4dev.github.io/authors/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://palza4dev.github.io/series/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://palza4dev.github.io/tags/test/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://palza4dev.github.io/categories/test-list/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://palza4dev.github.io/series/the-very-first/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://palza4dev.github.io/post/test3/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
