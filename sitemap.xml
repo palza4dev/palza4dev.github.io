@@ -80,9 +80,5 @@
     <loc>https://palza4dev.github.io/archives/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
-  </url><url>
-    <loc>https://palza4dev.github.io/authors/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
   </url>
 </urlset>
