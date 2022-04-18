@@ -2,12 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://palza4dev.github.io/categories/</loc>
-    <lastmod>2022-04-08T18:24:08+09:00</lastmod>
+    <loc>https://palza4dev.github.io/</loc>
+    <lastmod>2022-04-17T22:46:56+09:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://palza4dev.github.io/</loc>
+    <loc>https://palza4dev.github.io/post/new1/</loc>
+    <lastmod>2022-04-17T22:46:56+09:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://palza4dev.github.io/post/</loc>
+    <lastmod>2022-04-17T22:46:56+09:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://palza4dev.github.io/categories/</loc>
     <lastmod>2022-04-08T18:24:08+09:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -33,11 +43,6 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://palza4dev.github.io/categories/network/</loc>
-    <lastmod>2022-04-08T18:24:08+09:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://palza4dev.github.io/post/</loc>
     <lastmod>2022-04-08T18:24:08+09:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
